@@ -1,0 +1,48 @@
+.h-full {
+    height: 100%
+}
+.w-full {
+    width: 100%;
+}
+.w-auto {
+    width: auto;
+}
+.h-200 {
+    height: 200px;
+}
+.gap-x-10 {
+    column-gap: 10px;
+}
+.m-0 {
+    margin: 0;
+}
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+.justify-center {
+    justify-content: center;;
+}
+.items-center {
+    align-items: center;
+}
+.bg-brand {
+    background-color: #00776E;
+}
+.text-highlight:hover {
+    color: #c2fcf4;
+}
+.text-highlight:focus {
+    color: #c2fcf4;
+}
+.text-content {
+    color: #ECF5F3;
+}
+.raleway-semibold {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
